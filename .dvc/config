@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = gdrive://1waY72lQIMqJ04w2gWdGiw5ODIk8PwpBX
